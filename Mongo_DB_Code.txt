@@ -1,0 +1,3 @@
+//1. to create or use database in mongo db, following command line is used:
+use Your_Database_Name
+ex. use Employee
